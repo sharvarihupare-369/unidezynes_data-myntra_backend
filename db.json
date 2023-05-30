@@ -1,4 +1,5 @@
 {
+   
     "dealsofthday": [
       {
         "id": 1,
@@ -716,6 +717,7 @@
         "category": "Men Clothing",
         "brand": "Street Armor by Pantaloons",
         "color": "black",
+        "off_price": 2000,
         "images": {
           "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/998a78d8-157d-4dad-9178-42b130e3915a1632570452832StreetArmorbyPantaloonsMenBlackStripedSportyJacket1.jpg",
           "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/a64253af-ec67-4dec-881b-8e0045ba4e5b1632570453105StreetArmorbyPantaloonsMenBlackStripedSportyJacket2.jpg",
@@ -728,7 +730,7 @@
       {
         "id": 136,
         "title": "Men Green Solid Stole With Tasseled Border",
-        "price": 454,
+        "price": "454",
         "gender": "men",
         "sizes": [
           "S",
@@ -767,6 +769,7 @@
         "category": "Men Clothing",
         "brand": "Street Armor by Pantaloons",
         "color": "black",
+        "off_price": 2000,
         "images": {
           "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/998a78d8-157d-4dad-9178-42b130e3915a1632570452832StreetArmorbyPantaloonsMenBlackStripedSportyJacket1.jpg",
           "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/a64253af-ec67-4dec-881b-8e0045ba4e5b1632570453105StreetArmorbyPantaloonsMenBlackStripedSportyJacket2.jpg",
