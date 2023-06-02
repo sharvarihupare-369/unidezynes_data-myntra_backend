@@ -706,6 +706,7 @@
         "title": "Men Black Striped Sporty Jacket",
         "price": 2299,
         "gender": "men",
+        "categories":"jackets",
         "sizes": [
           "S",
           "M",
@@ -732,6 +733,7 @@
         "title": "Men Green Solid Stole With Tasseled Border",
         "price": "454",
         "gender": "men",
+        "categories":"stole",
         "sizes": [
           "S",
           "M",
@@ -758,6 +760,7 @@
         "title": "Men Black Striped Sporty Jacket",
         "price": 2299,
         "gender": "men",
+        "categories":"jackets",
         "sizes": [
           "S",
           "M",
@@ -784,6 +787,7 @@
         "title": "Men Green Solid Stole With Tasseled Border",
         "price": 454,
         "gender": "men",
+        "categories":"stole",
         "sizes": [
           "S",
           "M",
@@ -819,7 +823,7 @@
         ],
         "description": "Lightweight jacket provides insulation and helps maintain body temperature in mild cold Breathable fabric helps sweat dry fast.",
         "color": "green",
-        "categories": "shirt",
+        "categories": "jackets",
         "brand": "Roadster",
         "discount": 40,
         "off_price": 1600,
@@ -837,6 +841,7 @@
         "title": "Men Maroon Solid Hooded Sweatshirt",
         "price": 1649,
         "gender": "men",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -864,6 +869,7 @@
         "title": "Men Black Solid Rapid Dry Running Joggers",
         "price": 1044,
         "gender": "men",
+        "categories":"joggers",
         "sizes": [
           "S",
           "M",
@@ -891,6 +897,7 @@
         "title": "Men Teal Blue Printed T-shirt",
         "price": 419,
         "gender": "men",
+        "categories":"tshirt",
         "sizes": [
           "S",
           "M",
@@ -918,6 +925,7 @@
         "title": "Men Grey Solid Hooded Bomber Jacket",
         "price": 2199,
         "gender": "men",
+        "categories":"jackets",
         "sizes": [
           "S",
           "M",
@@ -945,6 +953,7 @@
         "title": "Men Maroon Solid Hooded Sweatshirt",
         "price": 1649,
         "gender": "men",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -972,6 +981,7 @@
         "title": "Men Black Solid Rapid Dry Running Joggers",
         "price": 1044,
         "gender": "men",
+        "categories":"joggers",
         "sizes": [
           "S",
           "M",
@@ -999,6 +1009,7 @@
         "title": "Men Teal Blue Printed T-shirt",
         "price": 419,
         "gender": "men",
+        "categories":"tshirt",
         "sizes": [
           "S",
           "M",
@@ -1026,6 +1037,7 @@
         "title": "Men Grey Solid Hooded Bomber Jacket",
         "price": 2199,
         "gender": "men",
+        "categories":"jackets",
         "sizes": [
           "S",
           "M",
@@ -1053,6 +1065,7 @@
         "title": "Men Blue Relaxed Fit Hoodie",
         "price": 1499,
         "gender": "male",
+        "categories":"hoodies",
         "sizes": [
           "S",
           "M",
@@ -1078,6 +1091,7 @@
       {
         "id": 25,
         "title": "Men Grey Relaxed Fit Sweatshirt",
+        "categories":"sweatshirt",
         "price": 799,
         "gender": "men",
         "sizes": [
@@ -1107,6 +1121,7 @@
         "title": "Men White Trainers",
         "price": 1999,
         "gender": "men",
+        "categories":"shoes",
         "sizes": [
           "S",
           "M",
@@ -1133,6 +1148,7 @@
         "title": "Men Pink Regular Fit Hoodie",
         "price": 2299,
         "gender": "men",
+        "categories":"hoodies",
         "sizes": [
           "S",
           "M",
@@ -1160,6 +1176,7 @@
         "title": "Men Blue Cotton Fine-knit Jumper",
         "price": 1499,
         "gender": "men",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -1187,6 +1204,7 @@
         "title": "Men Grey Relaxed Fit Sweatshirt",
         "price": 799,
         "gender": "men",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -1212,6 +1230,7 @@
       {
         "id": 30,
         "title": "Men White Trainers",
+        "categories":"shoes",
         "price": 1999,
         "gender": "men",
         "sizes": [
@@ -1240,6 +1259,7 @@
         "title": "Men Pink Regular Fit Hoodie",
         "price": 2299,
         "gender": "men",
+        "categories":"hoodies",
         "sizes": [
           "S",
           "M",
@@ -1267,6 +1287,7 @@
         "title": "Men Blue Cotton Fine-knit Jumper",
         "price": 1499,
         "gender": "men",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -1294,7 +1315,7 @@
       {
         "id": 21,
         "title": "White & Black Sheath Dress & Belt",
-        "categories": "dresses",
+        "categories":,
         "price": 903,
         "gender": "women",
         "sizes": [
