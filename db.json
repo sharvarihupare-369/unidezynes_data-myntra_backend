@@ -1330,7 +1330,7 @@
           "XL",
           "XXL"
         ],
-        "categories": "tops",
+        "categories": "sweatshirt",
         "description": "",
         "brand": "Mast & Harbour",
         "color": "pink",
@@ -1349,7 +1349,7 @@
         "id": 23,
         "title": "Women Navy Blue & Beige Embroidered Pullover Sweater",
         "price": 959,
-        "categories": "tops",
+        "categories": "sweaters",
         "gender": "women",
         "sizes": [
           "S",
@@ -1403,6 +1403,7 @@
         "id": 25,
         "title": "Women Blue Mile Super Skinny Fit High-Rise Light Fade Stretchable Jeans",
         "price": 2939,
+        "categories":"jeans",
         "gender": "women",
         "sizes": [
           "S",
@@ -1428,7 +1429,7 @@
       {
         "id": 26,
         "title": "Women Mustard Yellow & Green Solid Kurta Set With Embroidery Detail",
-        "categories": "tops",
+        "categories": "Kurta Sets",
         "price": 1399,
         "gender": "women",
         "sizes": [
@@ -1538,6 +1539,7 @@
         "title": "Black Dri-FIT Swoosh Zip-Front Medium-Support Workout Bra - Lightly Padded",
         "price": 2021,
         "gender": "women",
+        "categories":"bra",
         "sizes": [
           "S",
           "M",
@@ -1560,7 +1562,7 @@
         "count": 290
       },
       {
-        "id": 21,
+        "id": 31,
         "title": "White & Black Sheath Dress & Belt",
         "categories": "dresses",
         "price": 903,
@@ -1587,7 +1589,7 @@
         "count": 925
       },
       {
-        "id": 22,
+        "id": 32,
         "title": "Women Pink Daisy Duck Printed Sweatshirt",
         "price": 799,
         "gender": "women",
@@ -1598,7 +1600,7 @@
           "XL",
           "XXL"
         ],
-        "categories": "tops",
+        "categories": "sweatshirt",
         "description": "",
         "brand": "Mast & Harbour",
         "color": "pink",
@@ -1614,10 +1616,10 @@
         "count": 835
       },
       {
-        "id": 23,
+        "id": 33,
         "title": "Women Navy Blue & Beige Embroidered Pullover Sweater",
         "price": 959,
-        "categories": "tops",
+        "categories": "sweaters",
         "gender": "women",
         "sizes": [
           "S",
@@ -1641,7 +1643,7 @@
         "count": 835
       },
       {
-        "id": 24,
+        "id": 34,
         "title": "Women Red Solid A-Line Dress",
         "price": 1049,
         "categories": "dresses",
@@ -1668,10 +1670,11 @@
         "count": 675
       },
       {
-        "id": 25,
+        "id": 35,
         "title": "Women Blue Mile Super Skinny Fit High-Rise Light Fade Stretchable Jeans",
         "price": 2939,
         "gender": "women",
+        "categories":"jeans",
         "sizes": [
           "S",
           "M",
@@ -1694,9 +1697,9 @@
         "count": 768
       },
       {
-        "id": 26,
+        "id": 36,
         "title": "Women Mustard Yellow & Green Solid Kurta Set With Embroidery Detail",
-        "categories": "tops",
+        "categories": "Kurta Sets",
         "price": 1399,
         "gender": "women",
         "sizes": [
@@ -1721,7 +1724,7 @@
         "count": 6987
       },
       {
-        "id": 27,
+        "id": 37,
         "title": "Women Mustard Yellow & Pink Printed Pure Cotton Anarkali Tiered Maxi Dress",
         "price": 2249,
         "categories": "dresses",
@@ -1748,7 +1751,7 @@
         "count": 567
       },
       {
-        "id": 28,
+        "id": 38,
         "title": "Women Pink Solid Round Neck T-shirt",
         "price": 899,
         "categories": "tshirt",
@@ -1775,7 +1778,7 @@
         "count": 587
       },
       {
-        "id": 29,
+        "id": 39,
         "title": "Red & Maroon Tie and Dye RUSH Running Tank Top",
         "price": 2999,
         "categories": "tops",
@@ -1802,10 +1805,11 @@
         "count": 290
       },
       {
-        "id": 30,
+        "id": 40,
         "title": "Black Dri-FIT Swoosh Zip-Front Medium-Support Workout Bra - Lightly Padded",
         "price": 2021,
         "gender": "women",
+        "categories":"bra",
         "sizes": [
           "S",
           "M",
@@ -1828,7 +1832,7 @@
         "count": 290
       },
       {
-        "id": 121,
+        "id": 41,
         "categories": "beautycare",
         "title": "Radiance Complexion Compact - Natural Pearl",
         "price": 124,
@@ -1853,7 +1857,7 @@
         "count": 290
       },
       {
-        "id": 22,
+        "id": 42,
         "title": "Women Pink Daisy Duck Printed Sweatshirt",
         "price": 799,
         "gender": "women",
@@ -1864,7 +1868,7 @@
           "XL",
           "XXL"
         ],
-        "categories": "tops",
+        "categories": "sweatshirt",
         "description": "",
         "brand": "Mast & Harbour",
         "color": "pink",
@@ -1880,7 +1884,7 @@
         "count": 835
       },
       {
-        "id": 123,
+        "id": 43,
         "categories": "beautycare",
         "title": "New York Colossal Volume Express Waterproof Mascara - Black 10 g",
         "price": 319,
@@ -1907,7 +1911,7 @@
         "count": 45
       },
       {
-        "id": 124,
+        "id": 44,
         "categories": "beautycare",
         "title": "Perfect Match Primer 30 ml",
         "price": 595,
@@ -1932,7 +1936,7 @@
         "count": 75
       },
       {
-        "id": 125,
+        "id": 45,
         "categories": "beautycare",
         "title": "Insta-Liner - Black 9ml",
         "price": 104,
@@ -1958,7 +1962,7 @@
         "count": 23
       },
       {
-        "id": 126,
+        "id": 46,
         "categories": "beautycare",
         "title": "Set of 2 Eyeconic Kajal - Deep Black 0.70 g Each",
         "price": 240,
@@ -1986,7 +1990,7 @@
         "count": 250
       },
       {
-        "id": 127,
+        "id": 47,
         "categories": "beautycare",
         "title": "Lip Plumping Sleeping Mask Vitamin C + E - 15 ml",
         "price": 355,
@@ -2013,7 +2017,7 @@
         "count": 253
       },
       {
-        "id": 128,
+        "id": 48,
         "categories": "beautycare",
         "title": "New York The Nudes Eyeshadow Palette - Blush 9g",
         "price": 633,
@@ -2041,7 +2045,7 @@
         "count": 225
       },
       {
-        "id": 129,
+        "id": 49,
         "categories": "beautycare",
         "title": "New York Super Stay Matte Ink Liquid Lipstick - 120 Artist",
         "price": 594,
@@ -2069,7 +2073,7 @@
         "count": 275
       },
       {
-        "id": 130,
+        "id": 50,
         "categories": "beautycare",
         "title": "Absolute Blur Perfect Makeup Primer - Mini 10g",
         "price": 239,
@@ -2096,7 +2100,7 @@
         "count": 295
       },
       {
-        "id": 131,
+        "id": 51,
         "categories": "beautycare",
         "title": "Magneteyes Kajal Black 01",
         "price": 143,
@@ -2123,10 +2127,11 @@
         "count": 205
       },
       {
-        "id": 132,
+        "id": 52,
         "title": "Girls Black Shorts",
         "price": 359,
         "gender": "women",
+        "categories":"shorts",
         "sizes": [
           "S",
           "M",
@@ -2150,10 +2155,11 @@
         "count": 275
       },
       {
-        "id": 133,
+        "id": 53,
         "title": "Blue Kurti",
         "price": 699,
         "gender": "women",
+        "categories":"kurtis",
         "sizes": [
           "S",
           "M",
@@ -2177,10 +2183,11 @@
         "count": 295
       },
       {
-        "id": 134,
+        "id": 54,
         "title": "Black Culottes",
         "price": 699,
         "gender": "women",
+        "categories":"culottes",
         "sizes": [
           "S",
           "M",
@@ -2204,10 +2211,11 @@
         "count": 85
       },
       {
-        "id": 137,
+        "id": 55,
         "title": "Women White Solid Pure Cotton Camisole",
         "price": 199,
         "gender": "women",
+        "categories":"camisole",
         "sizes": [
           "S",
           "M",
@@ -2231,10 +2239,11 @@
         "count": 205
       },
       {
-        "id": 138,
+        "id": 56,
         "title": "Women Black & White Colourblocked Poncho Shrug",
         "price": 1699,
         "gender": "women",
+        "categories":"shrug",
         "sizes": [
           "S",
           "M",
@@ -2258,10 +2267,11 @@
         "count": 256
       },
       {
-        "id": 139,
+        "id": 57,
         "title": "Women Pink Textile Running Non-Marking Shoes",
         "price": 1199,
         "gender": "women",
+        "categories":"shoes",
         "sizes": [
           "S",
           "M",
@@ -2282,10 +2292,11 @@
         "count": 257
       },
       {
-        "id": 140,
+        "id": 58,
         "title": "Peach-Coloured Printed Shopper Tote Bag",
         "price": 199,
         "gender": "women",
+        "categories":"bags",
         "sizes": [
           "S",
           "M",
@@ -2309,10 +2320,11 @@
         "count": 259
       },
       {
-        "id": 132,
+        "id": 59,
         "title": "Girls Black Shorts",
         "price": 359,
         "gender": "women",
+        "categories":"shorts",
         "sizes": [
           "S",
           "M",
@@ -2336,10 +2348,11 @@
         "count": 275
       },
       {
-        "id": 133,
+        "id": 60,
         "title": "Blue Kurti",
         "price": 699,
         "gender": "women",
+        "categories":"kurtis",
         "sizes": [
           "S",
           "M",
@@ -2363,10 +2376,11 @@
         "count": 295
       },
       {
-        "id": 134,
+        "id": 61,
         "title": "Black Culottes",
         "price": 699,
         "gender": "women",
+        "categories":"culottes",
         "sizes": [
           "S",
           "M",
@@ -2390,10 +2404,11 @@
         "count": 85
       },
       {
-        "id": 137,
+        "id": 62,
         "title": "Women White Solid Pure Cotton Camisole",
         "price": 199,
         "gender": "women",
+        "categories":"camisole",
         "sizes": [
           "S",
           "M",
@@ -2417,10 +2432,11 @@
         "count": 205
       },
       {
-        "id": 138,
+        "id": 63,
         "title": "Women Black & White Colourblocked Poncho Shrug",
         "price": 1699,
         "gender": "women",
+        "categories":"shrug",
         "sizes": [
           "S",
           "M",
@@ -2444,10 +2460,11 @@
         "count": 256
       },
       {
-        "id": 139,
+        "id": 64,
         "title": "Women Pink Textile Running Non-Marking Shoes",
         "price": 1199,
         "gender": "women",
+        "categories":"shoes",
         "sizes": [
           "S",
           "M",
@@ -2468,10 +2485,11 @@
         "count": 257
       },
       {
-        "id": 140,
+        "id": 65,
         "title": "Peach-Coloured Printed Shopper Tote Bag",
         "price": 199,
         "gender": "women",
+        "categories":"bags",
         "sizes": [
           "S",
           "M",
@@ -2495,10 +2513,11 @@
         "count": 259
       },
       {
-        "id": 114,
+        "id": 66,
         "title": "Unisex Grey & Black Solid Training Duffel Bag",
         "price": 959,
         "gender": "women",
+        "categories":"bags",
         "sizes": [
           "S",
           "M",
@@ -2522,10 +2541,11 @@
         "count": 325
       },
       {
-        "id": 117,
+        "id": 67,
         "title": "Women Medieval Blue Solid Rapid-Dry Antimicrobial Training Jacket",
         "price": 959,
         "gender": "women",
+        "categories":"jackets",
         "sizes": [
           "S",
           "M",
@@ -2549,10 +2569,11 @@
         "count": 285
       },
       {
-        "id": 114,
+        "id": 68,
         "title": "Unisex Grey & Black Solid Training Duffel Bag",
         "price": 959,
         "gender": "women",
+        "categories":"bags",
         "sizes": [
           "S",
           "M",
@@ -2576,10 +2597,11 @@
         "count": 7879
       },
       {
-        "id": 117,
+        "id": 69,
         "title": "Women Medieval Blue Solid Rapid-Dry Antimicrobial Training Jacket",
         "price": 959,
         "gender": "women",
+        "categories":"jackets",
         "sizes": [
           "S",
           "M",
@@ -2603,10 +2625,11 @@
         "count": 789
       },
       {
-        "id": 118,
+        "id": 70,
         "title": "Men Green Solid Sporty Jacket",
         "price": 1099,
         "gender": "women",
+        "categories":"jackets",
         "sizes": [
           "S",
           "M",
@@ -2630,10 +2653,11 @@
         "count": 789
       },
       {
-        "id": 102,
+        "id": 71,
         "title": "Women Black Solid Chunky Combat Boots",
         "price": 2699,
         "gender": "women",
+        "categories":"boots",
         "sizes": [
           "S",
           "M",
@@ -2656,10 +2680,11 @@
         "count": 135
       },
       {
-        "id": 103,
+        "id": 72,
         "title": "Women White & Black Acrylic Jumper",
         "price": 799,
         "gender": "women",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -2683,10 +2708,11 @@
         "count": 246
       },
       {
-        "id": 107,
+        "id": 73,
         "title": "Women Off-White Solid Short Cardigan",
         "price": 1299,
         "gender": "women",
+        "categories":"cardigan",
         "sizes": [
           "S",
           "M",
@@ -2709,10 +2735,11 @@
         "count": 66
       },
       {
-        "id": 108,
+        "id": 74,
         "title": "Women Pink Solid Cropped Sweatshirt",
         "price": 799,
         "gender": "women",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -2736,10 +2763,11 @@
         "count": 110
       },
       {
-        "id": 110,
+        "id": 75,
         "title": "Women Blue Oversized Zip-Through Hoodie",
         "price": 2299,
         "gender": "women",
+        "categories":"hoodies",
         "sizes": [
           "S",
           "M",
@@ -2763,10 +2791,11 @@
         "count": 25
       },
       {
-        "id": 102,
+        "id": 76,
         "title": "Women Black Solid Chunky Combat Boots",
         "price": 2699,
         "gender": "women",
+        "categories":"boots",
         "sizes": [
           "S",
           "M",
@@ -2789,10 +2818,11 @@
         "count": 135
       },
       {
-        "id": 103,
+        "id": 77,
         "title": "Women White & Black Acrylic Jumper",
         "price": 799,
         "gender": "women",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -2816,10 +2846,11 @@
         "count": 246
       },
       {
-        "id": 107,
+        "id": 78,
         "title": "Women Off-White Solid Short Cardigan",
         "price": 1299,
         "gender": "women",
+        "categories":"cardigan",
         "sizes": [
           "S",
           "M",
@@ -2842,10 +2873,11 @@
         "count": 66
       },
       {
-        "id": 108,
+        "id": 79,
         "title": "Women Pink Solid Cropped Sweatshirt",
         "price": 799,
         "gender": "women",
+        "categories":"sweatshirt",
         "sizes": [
           "S",
           "M",
@@ -2869,10 +2901,11 @@
         "count": 110
       },
       {
-        "id": 110,
+        "id": 80,
         "title": "Women Blue Oversized Zip-Through Hoodie",
         "price": 2299,
         "gender": "women",
+        "categories":"hoodies",
         "sizes": [
           "S",
           "M",
