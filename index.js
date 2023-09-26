@@ -3,7 +3,7 @@ const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const cors = require("cors")
 const middlewares = jsonServer.defaults()
-const PORT = process.env.PORT || 8000
+const PORT =  8080
 
 server.use(cors())
 server.use(middlewares)
