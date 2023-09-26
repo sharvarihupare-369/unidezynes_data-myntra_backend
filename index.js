@@ -5,12 +5,12 @@ const cors = require("cors")
 require("dotenv").config()
 const middlewares = jsonServer.defaults()
 const PORT =  process.env.PORT || 5000
-// const corsObj = {
-//   origin : "http://localhost:3000",
-//   credentials:true
-// }
+const corsObj = {
+  origin : "http://localhost:3000",
+  credentials:true
+}
 
-server.use(cors())
+server.use(cors(corsObj))
 server.use(middlewares)
 server.use(router)
 
