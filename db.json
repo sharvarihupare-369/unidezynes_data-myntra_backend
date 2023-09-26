@@ -338,7 +338,20 @@
       }
     ],
     "wishlist" : [
-     
+     {
+      "id" : 1,
+      "title" : "Men Blue Regular Fit Printed Casual Shirt",
+      "brand" :"Roadster",
+      "color": "brown",
+      "rating": 3.9,
+      "price": "699",
+      "gender": "men",
+      "categories" :"shirt",
+      "description": "Green and White printed casual shirt, has a spread collar, short sleeves, button placket, curved hem, and 1 patch pocket",
+      "discount": 40,
+      "off_price": 1049,
+      "size" : "L"
+     }
     ],
     "cart": [
       {
