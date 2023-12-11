@@ -340,7 +340,7 @@
   "men": [
     {
       "id": 1,
-      "categories": "shirt",
+      "categories" : "shirt",
       "size": "Sizes : 39, 40, 42, 44...",
       "title": "Men Blue Regular Fit Printed Casual Shirt",
       "price": "699",
